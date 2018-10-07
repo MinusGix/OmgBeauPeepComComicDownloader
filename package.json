@@ -1,0 +1,15 @@
+{
+  "name": "omgbeaupeepdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MinusGix",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "sanitize-filename": "^1.6.1"
+  }
+}
